@@ -8,6 +8,9 @@
     "sub_directories": [
         {
             "name": "开发工具"
+        },
+        {
+            "name": "Java"
         }
     ],
     "tags": [
