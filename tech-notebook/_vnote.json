@@ -1,6 +1,6 @@
 {
     "attachment_folder": "_v_attachments",
-    "created_time": "2020-01-03T08:08:48Z",
+    "created_time": "2020-01-03T07:04:57Z",
     "files": [
     ],
     "image_folder": "",
@@ -8,9 +8,15 @@
     "sub_directories": [
         {
             "name": "开发工具"
+        },
+        {
+            "name": "Java"
         }
     ],
     "tags": [
+        "git",
+        "iTerm",
+        "mysql"
     ],
     "version": "1"
 }
