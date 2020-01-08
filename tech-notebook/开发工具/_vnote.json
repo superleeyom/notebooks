@@ -33,6 +33,16 @@
             "tags": [
                 "mysql"
             ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-01-04T11:38:22Z",
+            "modified_time": "2020-01-04T11:59:55Z",
+            "name": "alfred相关的配置.md",
+            "tags": [
+            ]
         }
     ],
     "sub_directories": [
