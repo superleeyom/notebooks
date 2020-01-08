@@ -1,3 +1,4 @@
+vnote_backup_file_826537664 /Users/leeyom/workspace/github/notebooks/tech-notebook/开发工具/git指令.md
 # git指令
 
 - 更新远程分支列表：`git remote update origin --prune`
