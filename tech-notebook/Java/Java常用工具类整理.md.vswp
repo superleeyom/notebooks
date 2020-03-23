@@ -1,3 +1,4 @@
+vnote_backup_file_826537664 /Users/leeyom/workspace/github/notebooks/tech-notebook/Java/Java常用工具类整理.md
 ## JSONObject、对象、JSON 字符串的转换
 - 这里的 JSONObject 指的阿里巴巴的 fastjson 组件里的 JSONObject；
 - 对应总结的很好的文章：[JSONObject、对象、json字符串的转换](https://www.cnblogs.com/ibigboy/p/11124524.html#_label4)；

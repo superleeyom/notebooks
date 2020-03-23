@@ -1,4 +1,4 @@
-记性不好，老是忘记，所有就有了这个笔记仓库😂，有些笔记是摘抄自网络，都会放上原始的链接，笔记软件使用的是：[VNote](https://github.com/tamlok/vnote)；
+记性不好，老是忘记，所有就有了这个笔记仓库😂，有些笔记是摘抄自网络，都会放上原始的链接，笔记软件使用的是：[VNote](https://github.com/tamlok/vnote)，排版参考：[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)。
 
 ## 开发工具
 
