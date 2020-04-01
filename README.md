@@ -12,4 +12,5 @@
 ## Java
 
 - [Java 常用工具类整理](/tech-notebook/Java/Java常用工具类整理.md)
+- [优秀文章收集](/tech-notebook/Java/优秀文章收集.md)
 
